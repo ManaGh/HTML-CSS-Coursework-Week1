@@ -6,3 +6,37 @@
  *    for example: General styles, Navigation styles, Hero styles, Footer etc.
  * 
  */
+
+html,
+body {
+  margin: 0;
+  height: 100%;
+  background-color: hsl(167, 100%, 83%);
+}
+
+.pragraph {
+  font-family: "Poppins", sans-serif;
+}
+
+h4 {
+  text-align: center;
+  height: 25px;
+  text-align: justify;
+  text-align: left;
+  color: red;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 10px 5px;
+  padding: 4px;
+  background-color: hsl(60, 100%, 50%);
+}
+
+p {
+  color: green;
+  text-align: justify;
+  text-align: left;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 10px 5px;
+  padding: 4px;
+}
